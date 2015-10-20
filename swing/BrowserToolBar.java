@@ -15,7 +15,7 @@ public class BrowserToolBar extends JToolBar {
       { "Left.gif", "Right.gif", "RotCCUp.gif",
         "TrafficRed.gif", "Home.gif", "Print.gif", "Help.gif" };
     String[] toolbarLabels =
-      { "Back", "Forward", "Reload", "Stop", 
+      { "NEWBack", "Forward", "Reload", "Stop", 
         "Home", "Print", "Help" };
     Insets margins = new Insets(0, 0, 0, 0);
     for(int i=0; i<toolbarLabels.length; i++) {
